@@ -10,6 +10,7 @@
 * C.L.P0003.c
 */
 
+// useless comment. just use for testing git manipulation
 
 /*
 * @author: NinhTBMHE141325
